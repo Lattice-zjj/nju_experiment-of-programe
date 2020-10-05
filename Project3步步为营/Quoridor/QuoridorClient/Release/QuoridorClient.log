@@ -1,0 +1,35 @@
+﻿  QuoridorUtils.cpp
+  AStar.cpp
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\AStar.cpp(86,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\AStar.cpp(99,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\AStar.cpp(241,40): warning C4018: “>”: 有符号/无符号不匹配
+  NetworkClient.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  Client.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  Configuration.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  MyPlayer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(171,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(217,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(309,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(335,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(386,31): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2444 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  QuoridorClient.vcxproj -> D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\Release\QuoridorClient.exe

@@ -1,0 +1,13 @@
+﻿  QuoridorUtils.cpp
+  ConsoleView.cpp
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorUI\ConsoleView.cpp(90,28): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+  LogLoader.cpp
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorUI\csv.h(173,49): warning C4244: “return”: 从“std::streamsize”转换到“int”，可能丢失数据
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorUI\csv.h(189,62): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  QuoridorUI.cpp
+  Replayer.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1924 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  QuoridorUI.vcxproj -> D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\Release\QuoridorUI.exe

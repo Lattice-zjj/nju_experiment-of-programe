@@ -1,0 +1,5 @@
+player,newLoc_x,newLoc_y,newBar_start_x,newBar_start_y,newBar_stop_x,newBar_stop_y,status
+Enemy,-1,-1,-1,-1,-1,-1,2000
+Me,5,2,-1,-1,-1,-1,0
+Enemy,-1,-1,-1,-1,-1,-1,2000
+Me,5,3,-1,-1,-1,-1,1

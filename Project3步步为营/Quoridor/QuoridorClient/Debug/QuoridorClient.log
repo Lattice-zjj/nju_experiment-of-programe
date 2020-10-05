@@ -1,0 +1,16 @@
+﻿  Client.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  MyPlayer.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(167,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(211,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(285,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\QuoridorClient\MyPlayer.cpp(377,31): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  QuoridorClient.vcxproj -> D:\学习-大一下\程设实验\pro3\proj3_quoridorclient_v1.0\Quoridor\Debug\QuoridorClient.exe
