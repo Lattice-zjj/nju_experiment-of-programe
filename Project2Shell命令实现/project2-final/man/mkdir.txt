@@ -1,0 +1,38 @@
+MKDIR(1)                                                  User Commands                                                 MKDIR(1)
+
+NAME
+       mkdir - make directories
+
+SYNOPSIS
+       mkdir [OPTION]... DIRECTORY...
+
+DESCRIPTION
+       Create the DIRECTORY(ies), if they do not already exist.
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -p, --parents
+              no error if existing, make parent directories as needed
+
+       --help display this help and exit
+
+
+AUTHOR
+       Written by David MacKenzie.
+
+REPORTING BUGS
+       GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+       Report mkdir translation bugs to <http://translationproject.org/team/>
+
+COPYRIGHT
+       Copyright    ©    2017   Free   Software   Foundation,   Inc.    License   GPLv3+:   GNU   GPL   version   3   or   later
+       <http://gnu.org/licenses/gpl.html>.
+       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       mkdir(2)
+
+       Full documentation at: <http://www.gnu.org/software/coreutils/mkdir>
+       or available locally via: info '(coreutils) mkdir invocation'
+
+GNU coreutils 8.28                                        January 2018                                                  MKDIR(1)

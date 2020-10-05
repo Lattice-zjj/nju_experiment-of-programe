@@ -1,0 +1,35 @@
+LS(1)                                                     User Commands                                                    LS(1)
+
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List  information  about  the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX
+       nor --sort is specified.
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -a, --all
+              do not ignore entries starting with .
+       --help display this help and exit
+
+AUTHOR
+       Written by Richard M. Stallman and David MacKenzie.
+
+REPORTING BUGS
+       GNU coreutils online help: <http://www.gnu.org/software/coreutils/>
+       Report ls translation bugs to <http://translationproject.org/team/>
+
+COPYRIGHT
+       Copyright   ©   2017   Free   Software   Foundation,   Inc.    License   GPLv3+:   GNU   GPL   version   3    or    later
+       <http://gnu.org/licenses/gpl.html>.
+       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.
+
+SEE ALSO
+       Full documentation at: <http://www.gnu.org/software/coreutils/ls>
+       or available locally via: info '(coreutils) ls invocation'
+
+GNU coreutils 8.28                                        January 2018                                                     LS(1)

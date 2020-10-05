@@ -1,0 +1,25 @@
+DASH(1)                                               BSD General Commands Manual                                               DASH(1)
+
+NAME
+     dash — command interpreter (shell)
+
+SYNOPSIS
+     dash [-aCefnuvxIimqVEbp] [+aCefnuvxIimqVEbp] [-o option_name] [+o option_name] [command_file [argument ...]]
+     dash -c [-aCefnuvxIimqVEbp] [+aCefnuvxIimqVEbp] [-o option_name] [+o option_name] command_string [command_name [argument ...]]
+     dash -s [-aCefnuvxIimqVEbp] [+aCefnuvxIimqVEbp] [-o option_name] [+o option_name] [argument ...]
+
+DESCRIPTION
+     dash is the standard command interpreter for the system.  The current version of dash is in the process of being changed to con‐
+     form with the POSIX 1003.2 and 1003.2a specifications for the shell.  This version has many features which make it appear similar
+     in some respects to the Korn shell, but it is not a Korn shell clone (see ksh(1)).  Only features designated by POSIX, plus a few
+     Berkeley extensions, are being incorporated into this shell.  This man page is not intended to be a tutorial or a complete speci‐
+     fication of the shell.
+
+   Overview
+     The shell is a command that reads lines from either a file or the terminal, interprets them, and generally executes other com‐
+     mands.  It is the program that is running when a user logs into the system (although a user can select a different shell with the
+     chsh(1) command).  The shell implements a language that has flow control constructs, a macro facility that provides a variety of
+     features in addition to data storage, along with built in history and line editing capabilities.  It incorporates many features to
+     aid interactive use and has the advantage that the interpretative language is common to both interactive and non-interactive use
+     (shell scripts).  That is, commands can be typed directly to the running shell or can be put into a file and the file can be exe‐
+     cuted directly by the shell.

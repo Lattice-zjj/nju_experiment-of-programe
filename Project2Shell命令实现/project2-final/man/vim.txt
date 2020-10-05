@@ -1,0 +1,35 @@
+VIM(1)                                                  General Commands Manual                                                  VIM(1)
+
+NAME
+       vim - Vi IMproved, a programmer's text editor
+
+SYNOPSIS
+       vim [options] [file ..]
+       vim [options] -
+       vim [options] -t tag
+       vim [options] -q [errorfile]
+
+       ex
+       view
+       gvim gview evim eview
+       rvim rview rgvim rgview
+
+DESCRIPTION
+       Vim is a text editor that is upwards compatible to Vi.  It can be used to edit all kinds of plain text.  It is especially useful
+       for editing programs.
+SEE ALSO
+       vimtutor(1)
+
+AUTHOR
+       Most of Vim was made by Bram Moolenaar, with a lot of help from others.  See ":help credits" in Vim.
+       Vim  is  based  on Stevie, worked on by: Tim Thompson, Tony Andrews and G.R. (Fred) Walter.  Although hardly any of the original
+       code remains.
+
+BUGS
+       Probably.  See ":help todo" for a list of known problems.
+
+       Note that a number of things that may be regarded as bugs by some, are in fact caused by a too-faithful reproduction of Vi's be‐
+       haviour.   And  if  you  think  other  things  are  bugs  "because Vi does it differently", you should take a closer look at the
+       vi_diff.txt file (or type :help vi_diff.txt when in Vim).  Also have a look at the 'compatible' and 'cpoptions' options.
+
+                                                              2006 Apr 11                                                        VIM(1)
